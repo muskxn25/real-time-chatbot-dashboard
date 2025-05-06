@@ -24,7 +24,7 @@ A responsive, production-ready dashboard that monitors key metrics of an AI chat
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![dashboard](static/dashboard_overview.png)
+![dashboard](dashboard.png)
 
 ### Real-Time Cards & Charts
 ![realtime](static/realtime_cards.png)
