@@ -2,7 +2,7 @@
 
 A responsive, production-ready dashboard that monitors key metrics of an AI chatbot system in real time.
 
-![banner](banner.png)
+![banner](banner1.png)
 
 ## 🚀 Features
 
